@@ -396,6 +396,7 @@ body {
     .blog-card:last-child {
         margin-top: 30px;
     }
+    
 }
 
 
@@ -413,5 +414,3 @@ body {
     }
 
 }
-
-@media (max-width: 1200px) {}
