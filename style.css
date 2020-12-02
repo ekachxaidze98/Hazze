@@ -8,8 +8,10 @@ body {
     background-color: #191919;
     font-family: 'Libre Franklin', sans-serif;
 }
-.flex-item {
-    
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* menu */
